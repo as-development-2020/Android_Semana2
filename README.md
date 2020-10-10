@@ -1,1 +1,1 @@
-Los pantallazos de la aplicación se encuentran en repositoro Capturas Semana 2
+Los pantallazos de la aplicación se encuentran en repositorio Capturas Semana 2
